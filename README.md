@@ -10,7 +10,7 @@ El proyecto fue ejecutado mediante un entorno virtual Anaconda con Python 3.11.8
 
 Dentro de este proyecto llamado "Evaluación Neurofisiológica del Esfuerzo Cognitivo en Pilotos mediante Machine Learning, DNN y EEG en Simuladores de Vuelo" encontramos diversos ficheros:
 
-Por un lado, el TFG.ipynb, el notebook que contiene todo el código del experimento y listo para su ejecución.
+Por un lado, el TFG.ipynb, el notebook que contiene todo el código del experimento (incluido la definición de la nueva variable y la experimentación del laboratorio) y listo para su ejecución. 
 
 Si por el contrario, usted prefiere ejecutar todo el proyecto por bloques, puede ir ejecutando los distintos .py's disponibles, según el orden: load_data,analisis_exploratorio, preprocesamiento, feature_extraction, ai_models, neuralnetwork.
 
