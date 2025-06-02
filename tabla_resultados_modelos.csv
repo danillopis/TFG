@@ -1,0 +1,18 @@
+,Sensibilidad,Especficidad,Accuracy
+Regresión Logística,0.802,0.894,0.79
+Regresión Logística + FS + SMOTE,0.811,0.898,0.8
+K-NN,0.58,0.788,0.59
+K-NN + FS + SMOTE,0.696,0.841,0.69
+Random Forest,0.824,0.905,0.82
+Random Forest + SMOTE,0.825,0.906,0.82
+SVM,0.809,0.897,0.8
+SVM + SMOTE + FS,0.826,0.906,0.82
+XGBoost,0.843,0.916,0.84
+XGBoost + SMOTE,0.823,0.904,0.81
+Gradient Boosting,0.845,0.917,0.84
+Gradient Boosting + SMOTE,0.839,0.913,0.83
+Small Net,0.751,0.87,0.75
+Medium Net,0.756,0.873,0.75
+Large Net,0.75,0.87,0.75
+X-Large Net,0.746,0.868,0.74
+XX-Large Net,0.749,0.869,0.74
