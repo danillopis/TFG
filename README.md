@@ -18,4 +18,4 @@ Además, también están disponibles tanto los ficheros con los pesos de las DNN
 
 Por último, no olvide contrastar las versiones de bibliotecas según el requeriments.txt.
 
-Para cualquier duda, lea memoria.pdf o contácteme.
+Para cualquier duda, lea la memoria o contácteme.
