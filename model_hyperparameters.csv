@@ -1,0 +1,7 @@
+Model,C,class_weight,solver,gamma,kernel,max_depth,min_samples_leaf,min_samples_split,n_estimators,learning_rate,subsample,max_features,n_neighbors,p,weights
+Logistic Regression,100.0,None,lbfgs,,,,,,,,,,,,
+SVM,1000.0,None,,scale,linear,,,,,,,,,,
+Random Forest,,None,,,,None,2.0,5.0,200.0,,,,,,
+XGBoost,,,,,,7,,,200.0,0.1,0.8,,,,
+Gradient Boosting,,,,,,5,,,200.0,0.1,1.0,sqrt,,,
+K-NN,,,,,,,,,,,,,35.0,1.0,distance
